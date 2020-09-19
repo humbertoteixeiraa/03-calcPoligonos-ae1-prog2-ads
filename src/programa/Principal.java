@@ -1,10 +1,3 @@
-//ALUNO: João Humberto Pereira Teixeira
-//R.A.:1881171-5
-//ATIVIDADE: Atividade de Estudo 01
-//DISCIPLINA: Programação II
-//CURSO: Análise e Desenvolvimento de Sistemas
-
-//------------------------------------------------------------------------------
 
 //PACOTE
 package programa;
